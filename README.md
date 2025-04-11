@@ -1,11 +1,10 @@
 # Magnetic Tool Holder
-This mouthstick holder is designed to allow someone to place a mouthstick (or another tool) on the holder and then retrieve it whenever they need it again.
+The Magnetic Tool Holder is intended to allow someone to place a mouthstick (or another tool) on the holder and then retrieve it whenever they need it again. The holder is designed to be mounted using an adjustable smartphone mount.
 
-<img src="Photos/Device-Name.jpg" width="500" alt="Picture of Magnetic Tool Holder.">
+<img src="Photos/Magnetic_Tool_Holder.png" width="500" alt="Picture of Magnetic Tool Holder.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/magnetic-tool-holder/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/magnetic-tool-holder/)
 
 
 ## How to Obtain a Magnetic Tool Holder
@@ -26,7 +25,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
+The Makers Checklist provides an overview of all steps required to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
@@ -55,7 +54,7 @@ Reference the [Assembly Guide](/Documentation/Magnetic_Tool_Holder_Assembly_Guid
 | Changelog            | 1.0     | [Magnetic_Tool_Holder_Changelog](/Documentation/Magnetic_Tool_Holder_Changelog_V1.0.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+ - [CAD Files](/Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
@@ -66,7 +65,6 @@ Designers:
  - Documentation by Neil Squire Society/Makers Making Change
 
 
-
 ## License
 Everything needed or used to design, make, test, or prepare the Magnetic Tool Holder is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -74,7 +72,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -92,3 +90,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
